@@ -1,0 +1,13 @@
+name: ToXiiCxBombs
+main: net.toxiic.bombs.Main
+version: 1.0.0
+description: A bomb plugin.
+author: Monster
+depend: [WorldGuard, WorldEdit]
+commands:
+  minebomb:
+    usage: /<command>
+    aliases: [mbomb, mb, mineb]
+  minerocket:
+    usage: /<command>
+    aliases: [mrocket, mr, miner]
